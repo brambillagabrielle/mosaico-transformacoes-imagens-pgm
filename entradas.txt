@@ -1,0 +1,9 @@
+NTRANS 5
+IMGE imagens/numeros.pgm
+IMGS imagens/saidas.pgm
+MAP DIR
+R 25
+R 20
+S 0.5 0.5
+RE Y
+CI H 0.4
